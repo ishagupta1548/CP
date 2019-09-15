@@ -17,7 +17,7 @@ int main()
             printf("losses\n");
         }
     }
-}
+}   
 
 int reverse(int num)
 {
