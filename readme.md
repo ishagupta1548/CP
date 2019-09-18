@@ -9,3 +9,4 @@ This repository contains solutions to CP questions.
 3. https://www.codechef.com/problems/PALL01
 4. https://www.codechef.com/problems/PPSUM
 5. https://www.codechef.com/problems/START01
+6. https://www.codechef.com/problems/INTEST
